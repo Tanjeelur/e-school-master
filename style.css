@@ -1,0 +1,117 @@
+body{
+    font-family: poppins;
+}
+.top-part{
+    background-color: #F0FFF0;
+    width: 100%;
+}
+h4{
+    font-family: poppins;
+    width: 400px;
+    font-size: 16px;
+    color:#FD511A;
+    
+}
+
+.eita1{
+    margin-top: -5px;
+    
+}
+.green-background{
+    background-color:  #f3fdf7;
+}
+h2{
+    font-family: poppins;
+    font-weight: 900;
+    font-size: 40px;
+}
+.green-text{
+    color: rgb(18, 201, 18);   
+}
+.green-button{
+    background-color: #FFFFFF;
+}
+
+.width{
+    width: 60%;
+    float: left;
+}
+
+.btn{
+    border-style: none;
+    background-color: #21B573;
+    border-radius: 20px;
+    
+}
+
+.row{
+    margin: 0px 20px;
+    
+}
+.card{
+    align-items: center;
+    border-style: none;
+    background-color:  #ffffff ;
+    box-shadow: 4px 4px 10px lightgray;
+}
+.card2{
+    
+    border-style: none;
+    background-color:  #ffffff ;
+    box-shadow: 4px 4px 10px lightgray;
+
+}
+.card-img-top-1 {
+    width: 30%;
+    padding-top: 20px;
+    
+}
+.card-img-top{
+    padding: 20px;
+    border-radius: 11px;
+}
+h1{
+    color: #413960;
+    
+}
+.vector{
+    max-height: 30px;
+    max-width: 30px ;
+}
+.card-footer{
+    background-color: white;
+    border-top: none;
+}
+.man{
+    max-width: 30%;
+    max-height: auto;
+}
+.bottom-part{
+    background-color: #282531;
+    height:420px;
+    
+}
+.white-text{
+    color: rgb(255, 255, 255);
+    font-size: 17px;
+    font-weight: 700px;
+}
+ul{
+    color: white;
+   
+}
+
+li
+{
+  text-align:left;
+}
+footer{
+    text-align: center;
+    color: white;
+    font-weight: 200px;
+    font-size: 13px;
+}
+.list{
+    color: white;
+    font-weight: 400px;
+}
